@@ -4,7 +4,7 @@
   "description": "Wrapper of Malihu's jQuery Custom Scrollbar to Angular",
   "main": "src/scrollbars.js",
   "dependencies": {
-    "malihu-custom-scrollbar-plugin": ">=3.0.7",
+    "malihu-custom-scrollbar-plugin": "git+https://github.com/ZuchaoWang/malihu-custom-scrollbar-plugin.git",
     "angular": "^1.2.21"
   },
   "devDependencies": {
